@@ -1,0 +1,49 @@
+{
+  "_from": "@expo-google-fonts/tenor-sans",
+  "_id": "@expo-google-fonts/tenor-sans@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-hR+Udq3mVF4GMOiFsozTvta4/xR2C4ViMWOKbE5WOR2PsTVtc5ERVQ+cwNioppfkrH1LUewsNha1ogZWLK5ojg==",
+  "_location": "/@expo-google-fonts/tenor-sans",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@expo-google-fonts/tenor-sans",
+    "name": "@expo-google-fonts/tenor-sans",
+    "escapedName": "@expo-google-fonts%2ftenor-sans",
+    "scope": "@expo-google-fonts",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@expo-google-fonts/tenor-sans/-/tenor-sans-0.1.0.tgz",
+  "_shasum": "521770ba6f344a514c3fd1b22813342d25c37df0",
+  "_spec": "@expo-google-fonts/tenor-sans",
+  "_where": "D:\\MyGitLabRepos\\AwesomeTSProject",
+  "author": {
+    "name": "Expo Team",
+    "email": "team@expo.io"
+  },
+  "bugs": {
+    "url": "https://github.com/expo/google-fonts/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Use the Tenor Sans font family from Google Fonts in your Expo app",
+  "homepage": "https://github.com/expo/google-fonts/tree/master/font-packages/tenor-sans#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@expo-google-fonts/tenor-sans",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expo/google-fonts.git"
+  },
+  "version": "0.1.0"
+}
