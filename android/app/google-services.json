@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117557313578",
+    "firebase_url": "https://chrome-lambda-263813.firebaseio.com",
+    "project_id": "chrome-lambda-263813",
+    "storage_bucket": "chrome-lambda-263813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117557313578:android:06a050a2516e266e0f8353",
+        "android_client_info": {
+          "package_name": "com.artbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117557313578-9ou4rr7gfun1if4juai7u90thqk130je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rP7Kd6zXfvPwEljVkdqwbXsEq-HAv0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117557313578-9ou4rr7gfun1if4juai7u90thqk130je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
